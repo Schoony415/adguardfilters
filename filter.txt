@@ -1,0 +1,5 @@
+! Blocking some of the netflix call back to help mitigate household rules
+||android.prod.cloud.netflix.com^
+||ios.prod.cloud.netflix.com^
+||web.prod.cloud.netflix.com^
+||prod.cloud.netflix.com^
