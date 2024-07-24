@@ -1,4 +1,5 @@
-! Blocking some of the netflix call back to help mitigate household rules
+! Block a specific Netflix domain on your device. Some users have found that blocking a specific Netflix production domain on their device stops them from getting blocked by Netflix Household. How you block this domain varies if you're on Android, iOS, the web, or a TV, but the domains to block are as follows:
+! ps. didn't work for me
 ||android.prod.cloud.netflix.com^
 ||ios.prod.cloud.netflix.com^
 ||web.prod.cloud.netflix.com^
